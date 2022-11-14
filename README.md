@@ -9,6 +9,6 @@
 
 <p align="center">
   <img alt="Twitter" src="Twitter.svg" width="45%">
-  &nbsp;
+  &nbsp;&nbsp;
   <img alt="Linkedin" src="Linkedin.svg" width="45%">
 </p>
