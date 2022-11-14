@@ -4,5 +4,6 @@
 
 <p align="left">
   <img alt="About Me" src="About Me.svg" width="55%">
+  &nbsp;
   <img alt="Twitter" src="Twitter.svg" width="30%">
 </p>
