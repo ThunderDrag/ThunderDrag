@@ -7,5 +7,6 @@
   &nbsp;&nbsp;
   <img alt="Twitter" src="Twitter.svg" width="30%" align="left">
   <br />
+  <br />
   <img alt="Linkedin" src="Linkedin.svg" width="30%" align="left">
 </p>
