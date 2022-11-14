@@ -4,7 +4,10 @@
 
 <p align="left" width="55%">
   <img alt="About Me" src="About Me.svg" width="55%">
-  &nbsp;&nbsp;
+</p>
+
+
+<p align="right">
   <img alt="Twitter" src="Twitter.svg" width="30%">
   <img alt="Linkedin" src="Linkedin.svg" width="30%">
 </p>
