@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="Title" src="title.png" width="100%">
+  <img alt="Title" src="Group 1.svg" width="100%">
 </p>
