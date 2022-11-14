@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img style="float: right;" src="Group 1.png">
+<img style="float: right;" src="Group 1.png">
