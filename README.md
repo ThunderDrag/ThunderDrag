@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="float: right;" src="Group 1.png">
+<img style="float: right;" src="fr.png">
 <img style="float: right;" src="Group 1.png">
