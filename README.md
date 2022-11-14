@@ -7,8 +7,8 @@
 </p>
 
 
-<p align="right">
-  <img alt="Twitter" src="Twitter.svg" width="38.3%" align="left">
-  <br />&nbsp;
-  <img alt="Linkedin" src="Linkedin.svg" width="38.3%" align="left">
+<p align="center">
+  <img alt="Twitter" src="Twitter.svg" width="50%">
+  &nbsp;
+  <img alt="Linkedin" src="Linkedin.svg" width="50%">
 </p>
