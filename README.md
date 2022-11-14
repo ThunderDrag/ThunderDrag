@@ -2,7 +2,7 @@
   <img alt="Title" src="Title.svg" width="100%">
 </p>
 
-<p align="center">
+<p align="left" width="55%">
   <img alt="About Me" src="About Me.svg" width="55%">
   &nbsp;&nbsp;
   <img alt="Twitter" src="Twitter.svg" width="30%">
