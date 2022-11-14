@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img alt="Twitter" src="Twitter.svg" width="50%">
+  <img alt="Twitter" src="Twitter.svg" width="45%">
   &nbsp;
-  <img alt="Linkedin" src="Linkedin.svg" width="50%">
+  <img alt="Linkedin" src="Linkedin.svg" width="45%">
 </p>
