@@ -10,7 +10,7 @@
 
 | Frontend | API | Backend |
 | --- | --- | --- |
-|<img src="html.svg"><img src="css.svg"><img src="javascript.svg">|<img src="graphql.svg">&nbsp;<img src="rest.svg">|<img src="python.svg" width="44px" height="44px"><img src="c.svg"><img src="c++.svg">|
+|<img src="html.svg"><img src="css.svg"><img src="javascript.svg">|<img src="graphql.svg">&nbsp;<img src="rest.svg">|<img src="backend.svg">|
 
 
 # **My Projects:-**
