@@ -6,4 +6,4 @@
 - **Currently completeing my UG Degree in Computer Science. 😄**
 - **I like new technology and pushing it to its limits. 😎**
 - **I am always developing projects so come and take a look! 😁**
-- <a href="target="_blank"">**Twitter **<img src="twitter.svg"></a>
+- [![name](twitter.svg)](https://twitter.com/thunder_druk)
