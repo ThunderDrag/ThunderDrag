@@ -2,15 +2,15 @@
   <img alt="Title" src="Title.svg" width="100%">
 </p>
 
-# **Hi! 🖐 I am ThunderDrag.**
-- **Currently Completing My UG Degree in Computer Science. 😄**
-- **I Like New Technology and Pushing it to it's Limits. 😎**
-- **I am Always Developing Projects So Come and Take a Look! 😁**
+# **Hello, World! 🖐 I'm ThunderDrag.**
+- **🎓 Navigating through my UG in Computer Science.**
+- **🚀 Passionate about tech & pushing its boundaries.**
+- **🔧 Continuously building. Dive into my projects!**
 - [**Twitter**](https://twitter.com/thunder_druk/) [<img width="2%" src="Twitter.svg" title="Twitter" target="_blank" align="center"/>](https://twitter.com/thunder_druk/)
-- **Languages I Know**
+- **Technologies I'm Proficient In:**
 
 | Frontend | API | Backend |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 |<img src="html.svg"><img src="css.svg"><img src="javascript.svg">|<img src="graphql.svg">&nbsp;<img src="rest.svg">|<img src="backend.svg">|
 
 
