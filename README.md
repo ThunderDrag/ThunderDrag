@@ -54,3 +54,34 @@ auth: 0
 ✅ Built for Speed 🚀<br />
 ✅ Delivers Possibly Hilarious Jokes 😂
 
+
+## 🎵 \[Dusic Music Bot\](https://github.com/ThunderDrag/Dusic)
+
+### 🎶 About the Bot:
+Dusic is a powerful and versatile Discord music bot that seamlessly integrates with YouTube and Spotify, allowing users to effortlessly play their favorite songs within their Discord servers. With its cutting-edge features and robust architecture, Dusic stands out from the crowd.
+
+### 🌟 Key Features:
+- **Lightning-Fast Playback**: Dusic leverages advanced caching and streaming techniques to ensure smooth and uninterrupted music playback, even for large Discord servers.
+- **High-Quality Audio**: Enjoy crystal-clear audio quality, thanks to Dusic's optimized audio processing and transcoding capabilities.
+- **Effortless Integration**: Dusic seamlessly integrates with YouTube and Spotify, allowing users to search, play, and queue songs from both platforms with ease.
+- **AI-Powered Song Requests**: Leveraging state-of-the-art natural language processing, Dusic allows users to request songs simply by typing in English, streamlining the music experience.
+- **Comprehensive Logging and Error Handling**: Dusic's robust logging and error handling mechanisms ensure reliable operation and easy troubleshooting.
+
+### 💻 Built With:
+- **Python**: Dusic is built using Python, a powerful and versatile programming language.
+- **YouTube Data API**: Dusic utilizes the YouTube Data API to search and retrieve song metadata and streaming URLs.
+- **Spotify Web API**: Integration with the Spotify Web API allows Dusic to access and play songs from the world's largest music streaming service.
+- **OpenAI API**: Cutting-edge natural language processing models from OpenAI power Dusic's song request understanding capabilities.
+
+### 🚀 Getting Started:
+To invite Dusic to your Discord server and start enjoying its features, simply follow the instructions in the repository's README file.
+
+[![Add Dusic to your server](https://img.shields.io/badge/Add%20to%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1225070174453891102)
+
+### 📌 Highlights:
+✅ Instant Playback from YouTube and Spotify <br />
+✅ AI-Powered Song Requests in English <br />
+✅ High-Quality Audio Streaming <br />
+✅ Comprehensive Logging and Error Handling <br />
+✅ Optimized for Large Discord Servers 🚀**
+
