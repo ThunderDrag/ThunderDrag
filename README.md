@@ -55,7 +55,7 @@ auth: 0
 ✅ Delivers Possibly Hilarious Jokes 😂
 
 
-## 🎵 \[Dusic Music Bot\](https://github.com/ThunderDrag/Dusic)
+## 🎵 [Dusic Music Bot](https://github.com/ThunderDrag/Dusic)
 
 ### 🎶 About the Bot:
 Dusic is a powerful and versatile Discord music bot that seamlessly integrates with YouTube and Spotify, allowing users to effortlessly play their favorite songs within their Discord servers. With its cutting-edge features and robust architecture, Dusic stands out from the crowd.
